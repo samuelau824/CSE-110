@@ -3,7 +3,7 @@
 Welcome to my website!
 I am currently a third-year student at UC San Diego studying Math-Computer Science. See [Myself as a Programmer](#myself-as-a-programmer).
 Some of my **hobbies** include listening to music, playing video games with friends, and going on late night drives to release stress.
-> My favorite artist right now is Keshi, and one of his best songs in my opinion is ***always***.
+My favorite artist right now is Keshi, and one of his best songs in my opinion is ***always***.
 
 Another thing I like to do is watch informational videos on Youtube from creators such as Mark Rober. One of my favorite videos from him is one where he exposes [carnival scams](https://www.youtube.com/watch?v=tk_ZlWJ3qJI).
 
@@ -15,3 +15,4 @@ int fahrenheitToCelsisu(int fahrenheit){
     return ((fahrenheit -32) * 5/9);
  }
  ```
+ > [Click here to find out what my favorite progamming language is!](part2/README.md)
