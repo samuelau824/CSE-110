@@ -1,9 +1,12 @@
 # Personal Introduction
-## Samuel Au
-Welcome to my website!
-I am currently a third-year student at UC San Diego studying Math-Computer Science. See [Myself as a Programmer](#myself-as-a-programmer).
 
-Some of my **hobbies** include listening to music, playing video games with friends, and going on late night drives to release stress.
+**Welcome to my website!**
+
+![Picture of myself](/sampic.jpg)
+
+My name is Samuel Au, and I am currently a third-year student at UC San Diego studying Math-Computer Science. See [Myself as a Programmer](#myself-as-a-programmer).
+
+Some of my hobbies include listening to music, playing video games with friends, and going on late night drives to release stress.
 
 My favorite artist right now is Keshi, and one of his best songs in my opinion is ***always***.
 
@@ -32,4 +35,5 @@ As a programmer in CSE 110, my goals for this quarter are:
 - Learn what it means to be a software engineer
 - Refine my skills as a programmer
 - Learn to work in a group environment
+
 
