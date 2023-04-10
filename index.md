@@ -36,4 +36,7 @@ As a programmer in CSE 110, my goals for this quarter are:
 - Refine my skills as a programmer
 - Learn to work in a group environment
 
-
+As a programmer overall, some goals that I have are:
+- [x] Secure an internship for the summer
+- [ ] Practice leetcode
+- [ ] Do more coding interviews
